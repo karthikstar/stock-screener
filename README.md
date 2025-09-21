@@ -34,7 +34,7 @@ All results are based on a 5-year backtest of S&P 500 equities.
 - **Example 2: EPAM**  
   - Buy-and-hold: **$10,000 → $5,015**  
   - Algorithm: **$10,000 → $19,349** (+93.4%)  
-  - **Result**: Significant outperformance compared to passive holding.  
+  - **Result**: Significant outperformance compared to passive holding, which would have resulted in huge losses.  
 
 ---
 
