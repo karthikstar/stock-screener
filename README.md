@@ -24,10 +24,11 @@ The trading algorithm combines **technical indicators** with **sentiment filters
 ---
 
 ## 📊 Interpretation & Examples
+All results are based on a 5-year backtest of S&P 500 equities.
 
 - **Example 1: TTD**  
-  - Buy-and-hold: **$10,000 → $10,500** (+5%)  
-  - Algorithm: **$10,000 → $31,917** (+219%)  
+  - Buy-and-hold: **$10,000 → $10,500** (+5%). If someone were to buy $10000 worth of TTD and hold 5 years ago, they would have enjoyed 5% returns. 
+  - Algorithm: **$10,000 → $31,917** (+219%). Our Algorithm would have turned $10000 5 years ago into $31,917.
   - **Result**: Algorithm outperformed buy-and-hold by **214%**.  
 
 - **Example 2: EPAM**  
