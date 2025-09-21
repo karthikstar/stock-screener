@@ -7,7 +7,7 @@ The trading algorithm combines **technical indicators** with **sentiment filters
 ---
 
 ## 🔑 Key Steps
-- **Data Collection**: Retrieved market data using Yahoo Finance in Python.  
+- **Data Collection**: Scraped S&P 500 tickers from Wikipedia using BeautifulSoup and retrieved 5 years of historical market data from Yahoo Finance in Python.
 - **Technical Analysis**: Derived indicators (Bollinger Bands, RSI, MFI) through custom Python functions.  
 - **Signal Logic**: Designed rules for buy/sell decisions based on mean reversion + momentum.  
 - **Backtesting**: Compared algorithmic strategy returns against buy-and-hold benchmarks.  
